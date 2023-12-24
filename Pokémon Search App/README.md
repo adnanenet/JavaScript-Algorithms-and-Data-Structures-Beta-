@@ -1,0 +1,1 @@
+<h1 align="center">Pokémon Search App</h1>

@@ -1,0 +1,1 @@
+<h1 align="center">Cash Register</h1>
